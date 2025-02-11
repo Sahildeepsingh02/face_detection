@@ -1,1 +1,4 @@
-# face_detection
+# Face Detection
+**Overview**
+This project demonstrates how to build a Face Detection Model using VGG16 for feature extraction, Albumentations for data augmentation, and TensorFlow/Keras for training the model. OpenCV is used to capture images from the webcam and create a custom face dataset. The model is capable of detecting faces in real-time through live webcam feed.
+
